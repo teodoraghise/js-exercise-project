@@ -2,6 +2,19 @@
 
 ### Progress
 
+Source [freeCodeCamp link](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-that-display-different-content)
+
+- [ ] Color flipper
+- [ ] Counter
+- [ ] Review Carousel
+- [ ] Responsive navbar
+- [ ] Sidebar
+- [ ] Modal
+- [ ] FAQ page
+- [ ] Restaurant menu page
+- [ ] Video background
+- [ ] Add more later...
+
 ### Required software
 `Node.js`
 `Git`
