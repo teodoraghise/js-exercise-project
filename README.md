@@ -20,11 +20,14 @@ Source [freeCodeCamp article](https://www.freecodecamp.org/news/javascript-proje
 `Git`
 `Yarn or Npm`
 
-### Installation & new project
+### Installation
 1. Fork this repository
 2. Enable GitHub Pages from your repository settings
 
+![image](https://user-images.githubusercontent.com/7374942/112717237-f693a380-8ef3-11eb-84ee-5ae1be5e9871.png)
 
+
+### Add new project implementation
 1. Create a new HTML file/folder in the projects folder
 2. Implement your solution in the file
 3. Link the path to the html file in the index.html (from root dir)
