@@ -2,7 +2,7 @@
 
 ### Progress
 
-Source [freeCodeCamp link](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-that-display-different-content)
+Source [freeCodeCamp article](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-that-display-different-content)
 
 - [ ] Color flipper
 - [ ] Counter
@@ -20,9 +20,12 @@ Source [freeCodeCamp link](https://www.freecodecamp.org/news/javascript-projects
 `Git`
 `Yarn or Npm`
 
-### Installation
+### Installation & new project
 1. Fork this repository
 2. Enable GitHub Pages from your repository settings
-2. Create a new HTML file with the project name in the projects folder
-3. Implement your solution in the file
+
+
+1. Create a new HTML file/folder in the projects folder
+2. Implement your solution in the file
+3. Link the path to the html file in the index.html (from root dir)
 
