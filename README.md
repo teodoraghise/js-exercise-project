@@ -4,7 +4,7 @@
 
 Source [freeCodeCamp article](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-that-display-different-content)
 
-- [ ] Color flipper
+- [x] Color flipper
 - [ ] Counter
 - [ ] Review Carousel
 - [ ] Responsive navbar
